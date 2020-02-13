@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\หาเกรดเฉลี่ย\หาเกรดเฉลี่ย\obj\Debug\หาเกรดเฉลี่ย.vbprojAssemblyReference.cache
+C:\Users\Admin\source\repos\หาเกรดเฉลี่ย\หาเกรดเฉลี่ย\obj\Debug\หาเกรดเฉลี่ย.Form1.resources
+C:\Users\Admin\source\repos\หาเกรดเฉลี่ย\หาเกรดเฉลี่ย\obj\Debug\หาเกรดเฉลี่ย.Resources.resources
+C:\Users\Admin\source\repos\หาเกรดเฉลี่ย\หาเกรดเฉลี่ย\obj\Debug\หาเกรดเฉลี่ย.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\หาเกรดเฉลี่ย\หาเกรดเฉลี่ย\bin\Debug\หาเกรดเฉลี่ย.exe.config
+C:\Users\Admin\source\repos\หาเกรดเฉลี่ย\หาเกรดเฉลี่ย\bin\Debug\หาเกรดเฉลี่ย.exe
+C:\Users\Admin\source\repos\หาเกรดเฉลี่ย\หาเกรดเฉลี่ย\bin\Debug\หาเกรดเฉลี่ย.pdb
+C:\Users\Admin\source\repos\หาเกรดเฉลี่ย\หาเกรดเฉลี่ย\bin\Debug\หาเกรดเฉลี่ย.xml
+C:\Users\Admin\source\repos\หาเกรดเฉลี่ย\หาเกรดเฉลี่ย\obj\Debug\หาเกรดเฉลี่ย.exe
+C:\Users\Admin\source\repos\หาเกรดเฉลี่ย\หาเกรดเฉลี่ย\obj\Debug\หาเกรดเฉลี่ย.xml
+C:\Users\Admin\source\repos\หาเกรดเฉลี่ย\หาเกรดเฉลี่ย\obj\Debug\หาเกรดเฉลี่ย.pdb
